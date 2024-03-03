@@ -1,9 +1,9 @@
 Hi there! 👋
 I'm Okpara Ifeanyi Ekene, a Software Engineer and passionate developer with a focus on cloud technologies.
 
-🔭 I’m currently working on a cutting-edge Flutter Mobile app, leveraging the power of cloud computing.
-💬 Ask me about cloud architecture, serverless computing, microservices, and anything related to web development!
-📫 How to reach me: jezes70@gmail.com
+I’m currently working on a cutting-edge Flutter Mobile app, leveraging the power of cloud computing.
+Ask me about cloud architecture, serverless computing, microservices, and anything related to web development!
+How to reach me: jezes70@gmail.com
 
 About Me
 
@@ -16,20 +16,23 @@ Exceptional communicator, collaborator, and team player, driving outstanding res
 
 Skills & Technologies
 
-Cloud Platforms: Azure, Google Cloud
-Cloud Architecture: Serverless Computing, Microservices,SOA, Containerization
-Frontend: HTML - CSS, JavaScript
-Framework: React - TypeScript, Vue, jQuery, Ajax
-Backend: Node.js - Express
-Mobile App: Flutter, Apache Cordova (HYBRID)
-Java Ecosystem: Java, Spring Boot, J2EE
-DevOps: CI/CD, Docker, Kubernetes, Terraform, Ansible
-Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
-Let's build and deploy exceptional cloud-powered applications together! 🚀
+Cloud Platforms: - Azure - Google Cloud - AWS
+Cloud Architecture: - Serverless Computing - Microservices - SOA - Containerization
+Frontend: - HTML - CSS - JavaScript
+Framework: - React - TypeScript
+Backend: - Node.js - Express
+Mobile App: - Flutter - Apache Cordova (HYBRID)
+Java Ecosystem: - Java - Spring Boot - J2EE
+DevOps: - CI/CD - Docker - Kubernetes - Terraform - Ansible
+Databases: - SQL - NoSQL - MongoDB - PostgreSQL - MySQL
 
-Soft Skill 
+Soft Skills 
 
-Teamwork, Adaptability, Time Management, Attention to Detail, Leadership, Communication, Problem-Solving, Analytical Thinking, Creativity, Customer Focus, Continuous Learning, Resilience Decision Making, Initiative
+Teamwork, Adaptability, Time Management, Attention to Detail,
+Leadership, Communication, Problem-Solving, Analytical Thinking,
+Creativity, Customer Focus, Continuous Learning, Resilience Decision Making, Initiative.
+
+Let's build and deploy exceptional cloud-powered applications together!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jezes70&show_icons=true&locale=en&layout=compact" alt="jezes70" /></p>
