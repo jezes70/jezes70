@@ -1,19 +1,36 @@
-### Hi there 👋
+Hi there! 👋
+I'm Okpara Ifeanyi Ekene, a Software Engineer and passionate developer with a focus on cloud technologies.
 
-<!--
-**jezes70/jezes70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a cutting-edge Flutter Mobile app, leveraging the power of cloud computing.
+💬 Ask me about cloud architecture, serverless computing, microservices, and anything related to web development!
+📫 How to reach me: jezes70@gmail.com
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Results-oriented Software Engineer with expertise in developing robust and scalable technologies. 
+Continually learning and applying the latest tools and frameworks including Node.js, Express.js, React.js, and React.ts. 
+Skilled in SQL, NoSQL, RESTful APIs, and frontend development using HTML5, CSS3, and JavaScript.
+Experienced in Git, agile methodologies like Scrum, and software testing with frameworks like Mocha, Chai, and Jest. 
+Strong understanding of AWS, Azure, Docker, and Kubernetes for efficient deployment. 
+Exceptional communicator, collaborator, and team player, driving outstanding results by bridging the gap between design and development.
+
+Skills & Technologies
+
+Cloud Platforms: Azure, Google Cloud
+Cloud Architecture: Serverless Computing, Microservices,SOA, Containerization
+Frontend: HTML - CSS, JavaScript
+Framework: React - TypeScript, Vue, jQuery, Ajax
+Backend: Node.js - Express
+Mobile App: Flutter, Apache Cordova (HYBRID)
+Java Ecosystem: Java, Spring Boot, J2EE
+DevOps: CI/CD, Docker, Kubernetes, Terraform, Ansible
+Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL
+Let's build and deploy exceptional cloud-powered applications together! 🚀
+
+Soft Skill 
+
+Teamwork, Adaptability, Time Management, Attention to Detail, Leadership, Communication, Problem-Solving, Analytical Thinking, Creativity, Customer Focus, Continuous Learning, Resilience Decision Making, Initiative
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jezes70&show_icons=true&locale=en&layout=compact" alt="jezes70" /></p>
 
