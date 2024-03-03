@@ -8,7 +8,7 @@ How to reach me: jezes70@gmail.com
 About Me
 
 Results-oriented Software Engineer with expertise in developing robust and scalable technologies. 
-Continually learning and applying the latest tools and frameworks including Node.js, Express.js, React.js, and React.ts. 
+Continually learning and applying the latest tools and frameworks including Node.js, Express.js, Java, Spring boot, React.js, and React.ts. 
 Skilled in SQL, NoSQL, RESTful APIs, and frontend development using HTML5, CSS3, and JavaScript.
 Experienced in Git, agile methodologies like Scrum, and software testing with frameworks like Mocha, Chai, and Jest. 
 Strong understanding of AWS, Azure, Docker, and Kubernetes for efficient deployment. 
