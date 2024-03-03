@@ -21,8 +21,8 @@ Cloud Architecture: - Serverless Computing - Microservices - SOA - Containerizat
 Frontend: - HTML - CSS - JavaScript
 Framework: - React - TypeScript
 Backend: - Node.js - Express
-Mobile App: - Flutter - Apache Cordova (HYBRID)
 Java Ecosystem: - Java - Spring Boot - J2EE
+Mobile App: - Flutter - Apache Cordova (HYBRID)
 DevOps: - CI/CD - Docker - Kubernetes - Terraform - Ansible
 Databases: - SQL - NoSQL - MongoDB - PostgreSQL - MySQL
 
